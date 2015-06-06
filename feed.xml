@@ -14,11 +14,12 @@
     <link rel="alternate" href="http://blog.url.com/2012/01/01/example-article/"/>
     <id>http://blog.url.com/2012/01/01/example-article/</id>
     <published>2012-01-01T05:30:00+05:30</published>
-    <updated>2015-06-06T20:09:50+05:30</updated>
+    <updated>2015-06-06T21:25:37+05:30</updated>
     <author>
       <name>Article Author</name>
     </author>
-    <content type="html">&lt;p&gt;This is an example article. You probably want to delete it and write your own articles!&lt;/p&gt;
+    <content type="html">&lt;p&gt;How cool it can get?
+Hello Mac :)&lt;/p&gt;
 </content>
   </entry>
 </feed>
